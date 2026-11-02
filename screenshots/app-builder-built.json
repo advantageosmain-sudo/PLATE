@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Plate — POD files at spec",
+      "hasCanvas": false,
+      "bodyTextLen": 1558,
+      "bodyTextHash": "4d5f89eb11b20a4fd046e3ed72db784dba1c258ec6c671e5efc9535457220af6",
+      "bodyTextPrefix": "PRINT ON DEMAND Plate 4,500 × 5,400 · 300 DPI Download print fil",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Plate — POD files at spec",
+      "hasCanvas": false,
+      "bodyTextLen": 1494,
+      "bodyTextHash": "7510339eba8449cad323a949dda3309414620f44886a494960ed5d6943b6709f",
+      "bodyTextPrefix": "PRINT ON DEMAND Plate Download WHERE IT GOES Printful DTG, mugs,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
